@@ -1,0 +1,23 @@
+h1{
+    font-family: serif;
+    text-align: center;
+    border: 2px solid blue;
+    background-color: antiquewhite;
+}
+h1:hover{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.titleBox{
+    display: grid;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: rgb(139, 253, 139);
+    cursor: pointer;
+}
+
+.scope{
+    font-family: Georgia;
+    
+}
